@@ -1,0 +1,268 @@
+.settings .line-1 {
+  position: absolute;
+  top: -53px;
+  right: -199.8px;
+  width: 142.2px;
+  height: 40px;
+}
+.settings .setting {
+  position: relative;
+  margin: 0 17.5px 20px 0;
+  align-self: center;
+  width: 72px;
+  height: 72px;
+}
+.settings .icon {
+  width: 30px;
+  height: 48px;
+}
+.settings .lightbulb-02 {
+  margin-bottom: 6.4px;
+  display: flex;
+  width: 30px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.settings .line-11 {
+  transform: rotate(-9.856deg);
+  margin-top: 5px;
+  width: 144.9px;
+  height: 49.4px;
+}
+.settings .container-1 {
+  position: relative;
+  margin: 0 7px 33.1px 7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 261.9px;
+  box-sizing: border-box;
+}
+.settings .vector-6 {
+  width: 26.3px;
+  height: 45px;
+}
+.settings .thermometer-three-quarters-solid {
+  display: flex;
+  width: 26.3px;
+  height: 45px;
+  box-sizing: border-box;
+}
+.settings .line-3 {
+  margin: 26.5px 0 16.6px 0;
+  width: 125px;
+  height: 1.9px;
+}
+.settings .container-3 {
+  position: relative;
+  margin: 0 8.9px 45.5px 8.9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 236.1px;
+  box-sizing: border-box;
+}
+.settings .vector-7 {
+  width: 40px;
+  height: 50px;
+}
+.settings .lock {
+  margin-bottom: 17.5px;
+  display: flex;
+  width: 40px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.settings .lock-orientation {
+  background: url('../assets/images/lock_orientation.png') 50% / contain no-repeat;
+  width: 67.5px;
+  height: 67.5px;
+}
+.settings .container-4 {
+  position: relative;
+  margin: 0 6px 32.5px 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 204.5px;
+  box-sizing: border-box;
+}
+.settings .music {
+  background: url('../assets/images/music.png') 50% / contain no-repeat;
+  margin: 0 40.5px 11px 0;
+  width: 67.5px;
+  height: 67.5px;
+}
+.settings .up {
+  background: url('../assets/images/up.png') 50% / contain no-repeat;
+  margin: 0 29.5px 11px 0;
+  width: 67.5px;
+  height: 67.5px;
+}
+.settings .down {
+  background: url('../assets/images/down.png') 50% / contain no-repeat;
+  margin: 11px 29.5px 0 0;
+  width: 67.5px;
+  height: 67.5px;
+}
+.settings .add-song {
+  background: url('../assets/images/add_song.png') 50% / contain no-repeat;
+  margin-top: 11px;
+  width: 67.5px;
+  height: 67.5px;
+}
+.settings .container-2 {
+  position: relative;
+  margin-bottom: 34.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 369.5px;
+  box-sizing: border-box;
+}
+.settings .icon-1 {
+  width: 36px;
+  height: 32px;
+}
+.settings .tv {
+  margin: 8px 0 27.5px 0;
+  display: flex;
+  width: 36px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.settings .tv-on {
+  background: url('../assets/images/tv_on.png') 50% / contain no-repeat;
+  width: 67.5px;
+  height: 67.5px;
+}
+.settings .container-5 {
+  position: relative;
+  margin: 0 8px 25.5px 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 187.5px;
+  box-sizing: border-box;
+}
+.settings .coffee-maker {
+  background: url('../assets/images/coffee_maker.png') 50% / contain no-repeat;
+  width: 67.5px;
+  height: 67.5px;
+}
+.settings .switch-on {
+  background: url('../assets/images/switch_on.png') 50% / contain no-repeat;
+  width: 67.5px;
+  height: 67.5px;
+}
+.settings .container-6 {
+  position: relative;
+  margin-bottom: 62.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 203.5px;
+  box-sizing: border-box;
+}
+.settings .vector {
+  width: 50.4px;
+  height: 50.4px;
+}
+.settings .redo-alt {
+  margin: 0.3px 47.8px 0.3px 0;
+  display: flex;
+  width: 50.4px;
+  height: 50.4px;
+  box-sizing: border-box;
+}
+.settings .vector-1 {
+  width: 52px;
+  height: 45.5px;
+}
+.settings .home {
+  margin: 2.8px 47px 2.8px 0;
+  display: flex;
+  width: 52px;
+  height: 45.5px;
+  box-sizing: border-box;
+}
+.settings .vector-2 {
+  width: 51px;
+  height: 51px;
+}
+.settings .user {
+  display: flex;
+  width: 51px;
+  height: 51px;
+  box-sizing: border-box;
+}
+.settings .icons {
+  position: relative;
+  margin: 0 11.7px 17px 0;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  width: 248.2px;
+  box-sizing: border-box;
+}
+.settings .automations {
+  margin: 0 30.2px 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 20.6px;
+  color: #000000;
+}
+.settings .home-1 {
+  margin-top: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 20.6px;
+  color: #000000;
+}
+.settings .container-7 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.settings .profile {
+  margin-top: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 20.6px;
+  color: #000000;
+}
+.settings .container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 304.2px;
+  box-sizing: border-box;
+}
+.settings .line-4 {
+  background: #92C0E5;
+  position: relative;
+  margin-right: 221.5px;
+  align-self: center;
+  width: 56px;
+  height: 8px;
+}
+.settings {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 8px 0 2px 0;
+  box-sizing: border-box;
+}

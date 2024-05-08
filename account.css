@@ -1,0 +1,286 @@
+.account .text-labels {
+  margin: 0 0.4rem 0.4rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  width: 15.6rem;
+  box-sizing: border-box;
+}
+.account .automation {
+  border: 0.1rem solid #000000;
+  margin-right: 0.5rem;
+  width: 6.8rem;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 0.8rem;
+  color: #000000;
+}
+.account .profile {
+  border: 0.1rem solid #000000;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 0.8rem;
+  color: #000000;
+}
+.account .home {
+  border: 0.1rem solid #000000;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 0.8rem;
+  color: #000000;
+}
+.account .line-1 {
+  background: #92C0E5;
+  margin-left: 13.1rem;
+  align-self: center;
+  width: 3.3rem;
+  height: 0.5rem;
+}
+.account .icons {
+  margin: 0 0 0.4rem 0.7rem;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  width: 15.5rem;
+  box-sizing: border-box;
+}
+.account .redo-alt {
+  margin: 0rem 3rem 0rem 0;
+  display: flex;
+  width: 3.1rem;
+  height: 3.1rem;
+  box-sizing: border-box;
+}
+.account .vector {
+  width: 3.1rem;
+  height: 3.1rem;
+}
+.account .home-1 {
+  margin: 0.2rem 2.9rem 0.2rem 0;
+  display: flex;
+  width: 3.3rem;
+  height: 2.8rem;
+  box-sizing: border-box;
+}
+.account .vector-1 {
+  width: 3.3rem;
+  height: 2.8rem;
+}
+.account .user {
+  display: flex;
+  width: 3.2rem;
+  height: 3.2rem;
+  box-sizing: border-box;
+}
+.account .vector-2 {
+  width: 3.2rem;
+  height: 3.2rem;
+}
+.account {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 6.1rem 0 1.5rem 1.8rem;
+  box-sizing: border-box;
+}
+.account .rectangle-2 {
+  position: relative;
+  margin: 0 0.1rem 1.8rem 0.1rem;
+  display: flex;
+  align-self: flex-start;
+  padding: 0.7rem 0 0.7rem 0.6rem;
+  width: 20rem;
+  box-sizing: border-box;
+}
+.account .log-out {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.account .rectangle-3 {
+  position: relative;
+  margin: 0 0.1rem 2.3rem 0.1rem;
+  align-self: flex-start;
+  padding: 1rem 0.5rem 0.7rem 0.5rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.account .account-1 {
+  margin: 0 0.1rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1rem;
+  color: #000000;
+}
+.account .random-name {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 1rem;
+  color: #769EBE;
+}
+.account .ellipse-14 {
+  margin: 0.4rem 0.2rem 0.4rem 0;
+  width: 0.4rem;
+  height: 0.4rem;
+}
+.account .signed-in {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 1rem;
+  color: #769EBE;
+}
+.account .support {
+  margin: 0 0.1rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1rem;
+  color: #000000;
+}
+.account .rectangle-4 {
+  background-color: #F0F0F0; /* Light gray background for visibility */
+  padding: 15px; /* Adequate padding around the text */
+  margin-top: 10px; /* Space above the box, adjust as needed */
+  margin-bottom: 10px; /* Space below the box, adjust as needed */
+  width: 100%; /* Ensures the box takes the full width available */
+  box-sizing: border-box; /* Padding and border included in the width */
+}
+.account .rectangle-4 {
+  position: relative; /* Set the div to position relative for absolute positioning inside */
+  width: 100%; /* Ensure the div takes full width */
+  display: block;
+  text-align: center; /* Center the text horizontally */
+}
+
+.account .rectangle-23 {
+  width: 100%; /* Make the image cover the full width of the div */
+  height: auto; /* Maintain aspect ratio */
+  position: absolute; /* Position it absolutely to cover the div */
+  left: 0;
+  top: 0;
+  z-index: 1; /* Lower index so text appears on top */
+}
+
+.account .how-to-videos {
+  position: relative; /* Make sure text is positioned relatively to the div */
+  z-index: 2; /* Higher z-index so it appears on top of the image */
+  color: white; /* Assuming you want white text */
+  font-size: 16px; /* Example font size */
+  line-height: 50px; /* Center vertically, adjust height based on your div's height */
+}
+
+.account .faqs {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1rem;
+  color: #000000;
+}
+.account .rectangle-6 {
+  position: relative;
+  margin-bottom: 0.8rem;
+  align-self: flex-start;
+  padding: 0.8rem 0.6rem 0.9rem 0.6rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.account .rectangle-7 {
+  position: relative;
+  margin: 0 0.1rem 9.1rem 0.1rem;
+  align-self: flex-start;
+  padding: 1.1rem 0.4rem 0.6rem 0.4rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.account .email-us {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1rem;
+  color: #000000;
+}
+.account .about-us {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 1rem;
+  color: #000000;
+}
+.account .container {
+  margin: 0 0 3.3rem 13.5rem;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.account .rectangle-21 {
+  border-radius: 0.3rem;
+  position: absolute;
+  left: 50%;
+  top: 0rem;
+  translate: -50% 0;
+  width: 20rem;
+  height: 2.9rem;
+}
+.account .rectangle-22 {
+  border-radius: 0.3rem;
+  position: absolute;
+  left: 50%;
+  top: 0rem;
+  translate: -50% 0;
+  width: 20rem;
+  height: 2.9rem;
+}
+.account .rectangle-23 {
+  border-radius: 0.3rem;
+  position: absolute;
+  left: 50%;
+  top: 0rem;
+  translate: -50% 0;
+  width: 20rem;
+  height: 2.9rem;
+}
+.account .rectangle-24 {
+  border-radius: 0.3rem;
+  position: absolute;
+  left: 50%;
+  top: 0rem;
+  translate: -50% 0;
+  width: 20rem;
+  height: 2.9rem;
+}
+.account .rectangle-25 {
+  border-radius: 0.3rem;
+  position: absolute;
+  left: 50%;
+  top: 0rem;
+  translate: -50% 0;
+  width: 20rem;
+  height: 2.9rem;
+}
+.account .rectangle-26 {
+  border-radius: 0.3rem;
+  position: absolute;
+  left: 50%;
+  top: 0rem;
+  translate: -50% 0;
+  width: 20rem;
+  height: 2.9rem;
+}

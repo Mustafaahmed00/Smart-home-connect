@@ -1,0 +1,160 @@
+.night-check .night-check-activated {
+  margin: 0 0 21px 22px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 50px;
+  color: #000000;
+}
+.night-check .vector-3 {
+  width: 38.4px;
+  height: 48px;
+}
+.night-check .lock {
+  margin: 15.8px 59px 10.5px 0;
+  display: flex;
+  width: 38.4px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.night-check .curtains {
+  background: url('../assets/images/curtains.png') 50% / contain no-repeat;
+  margin: 6px 50.5px 0.8px 0;
+  width: 67.5px;
+  height: 67.5px;
+}
+.night-check .light-off {
+  background: url('../assets/images/light_off.png') 50% / contain no-repeat;
+  width: 74.3px;
+  height: 74.3px;
+}
+.night-check .container-1 {
+  margin: 0 31.6px 11px 31.6px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 289.7px;
+  box-sizing: border-box;
+}
+.night-check .approval-1 {
+  background: url('../assets/images/approval.png') 50% / contain no-repeat;
+  margin-right: 53.5px;
+  width: 67.5px;
+  height: 67.5px;
+}
+.night-check .approval {
+  background: url('../assets/images/approval.png') 50% / contain no-repeat;
+  width: 67.5px;
+  height: 67.5px;
+}
+.night-check .container-2 {
+  margin: 0 0 21.3px 59px;
+  display: flex;
+  flex-direction: row;
+  width: 188.5px;
+  box-sizing: border-box;
+}
+.night-check .minutes-left-50 {
+  margin: 0 24.3px 88px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 50px;
+  color: #000000;
+}
+.night-check .setting {
+  margin: 0 62px 159px 0;
+  width: 60px;
+  height: 60px;
+}
+.night-check .vector {
+  width: 50.4px;
+  height: 50.4px;
+}
+.night-check .redo-alt {
+  margin: 0.3px 47.8px 0.3px 0;
+  display: flex;
+  width: 50.4px;
+  height: 50.4px;
+  box-sizing: border-box;
+}
+.night-check .vector-1 {
+  width: 52px;
+  height: 45.5px;
+}
+.night-check .home {
+  margin: 2.8px 47px 2.8px 0;
+  display: flex;
+  width: 52px;
+  height: 45.5px;
+  box-sizing: border-box;
+}
+.night-check .vector-2 {
+  width: 51px;
+  height: 51px;
+}
+.night-check .user {
+  display: flex;
+  width: 51px;
+  height: 51px;
+  box-sizing: border-box;
+}
+.night-check .icons {
+  margin: 0 62.2px 6px 0;
+  display: flex;
+  flex-direction: row;
+  width: 248.2px;
+  box-sizing: border-box;
+}
+.night-check .automations {
+  margin: 0 12.2px 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 20.6px;
+  color: #000000;
+}
+.night-check .home-1 {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 20.6px;
+  color: #000000;
+}
+.night-check .container-3 {
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.night-check .profile {
+  margin-top: 6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 20.6px;
+  color: #000000;
+}
+.night-check .container {
+  margin: 0 7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 279.2px;
+  box-sizing: border-box;
+}
+.night-check {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 39px 0 12px 2px;
+  box-sizing: border-box;
+}

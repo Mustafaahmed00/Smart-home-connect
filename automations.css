@@ -1,0 +1,182 @@
+.automations .study-mode {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 37.5px;
+  color: #000000;
+}
+.automations .rectangle-17 {
+  mix-blend-mode: darken;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 177px;
+  height: 129px;
+}
+.automations .frame-5 {
+  position: relative;
+  margin: 0 23.9px 45.3px 0;
+  display: flex;
+  padding: 22.5px 0 16.5px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.automations .evening-mode {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 37.5px;
+  color: #000000;
+}
+.automations .rectangle-18 {
+  mix-blend-mode: darken;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 182.3px;
+  height: 82.5px;
+}
+.automations .frame-7 {
+  position: relative;
+  margin: 0 20.3px 58.2px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.automations .night-check {
+  position: absolute;
+  top: -53.6px;
+  right: -3.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 41.3px;
+  color: #000000;
+}
+.automations .rectangle-19 {
+  mix-blend-mode: darken;
+  background: #D9D9D9;
+  width: 163.4px;
+  height: 87.4px;
+}
+.automations .frame-8 {
+  position: relative;
+  margin: 0 24.6px 128.3px 0;
+  display: flex;
+  width: 163.4px;
+  height: 87.4px;
+  box-sizing: border-box;
+}
+.automations .add-anew-mode {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 37.5px;
+  color: #000000;
+}
+.automations .rectangle-20 {
+  mix-blend-mode: darken;
+  background: #D9D9D9;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 189px;
+  height: 88.5px;
+}
+.automations .frame-10 {
+  position: relative;
+  margin: 0 0 45.8px 24px;
+  display: flex;
+  box-sizing: border-box;
+}
+.automations .vector {
+  width: 50.4px;
+  height: 50.4px;
+}
+.automations .redo-alt {
+  margin: 0.3px 47.8px 0.3px 0;
+  display: flex;
+  width: 50.4px;
+  height: 50.4px;
+  box-sizing: border-box;
+}
+.automations .vector-1 {
+  width: 52px;
+  height: 45.5px;
+}
+.automations .home-1 {
+  margin: 2.8px 47px 2.8px 0;
+  display: flex;
+  width: 52px;
+  height: 45.5px;
+  box-sizing: border-box;
+}
+.automations .vector-2 {
+  width: 51px;
+  height: 51px;
+}
+.automations .user {
+  display: flex;
+  width: 51px;
+  height: 51px;
+  box-sizing: border-box;
+}
+.automations .icons {
+  margin: 0 0 7px 9.8px;
+  display: flex;
+  flex-direction: row;
+  width: 248.2px;
+  box-sizing: border-box;
+}
+.automations .automation {
+  border: 1px solid #000000;
+  margin-right: 7.5px;
+  width: 109.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 12px;
+  color: #000000;
+}
+.automations .home {
+  border: 1px solid #000000;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 12px;
+  color: #000000;
+}
+.automations .profile {
+  border: 1px solid #000000;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 12px;
+  color: #000000;
+}
+.automations .text-labels {
+  margin: 0 7.6px 6px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 250.4px;
+  box-sizing: border-box;
+}
+.automations .line-1 {
+  background: #92C0E5;
+  margin-right: 182px;
+  width: 56px;
+  height: 8px;
+}
+.automations {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 59px 0 24px 0;
+  box-sizing: border-box;
+}

@@ -1,0 +1,106 @@
+.register-page .rectangle-2 {
+  border-radius: 5px;
+  position: absolute;
+  left: 29px;
+  top: 562px;
+  width: 320px;
+  height: 46px;
+}
+.register-page .smart-home-connect {
+  position: relative;
+  margin: 0 0 27px 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+.register-page .full-name {
+  position: relative;
+  margin: 0 12px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.register-page .line-4 {
+  position: relative;
+  margin: 0 3px 25px 3px;
+  align-self: flex-start;
+  width: 320px;
+  height: 1px;
+}
+.register-page .email {
+  position: relative;
+  margin: 0 12px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.register-page .line-5 {
+  background: #000000;
+  position: relative;
+  margin: 0 3px 24px 3px;
+  align-self: flex-start;
+  width: 320px;
+  height: 3px;
+}
+.register-page .password {
+  position: relative;
+  margin: 0 9px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.register-page .line-7 {
+  background: #000000;
+  position: relative;
+  margin-bottom: 24px;
+  align-self: flex-start;
+  width: 320px;
+  height: 3px;
+}
+.register-page .phone-number {
+  position: relative;
+  margin: 0 9px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.register-page .line-8 {
+  background: #000000;
+  position: relative;
+  margin-bottom: 35px;
+  align-self: flex-start;
+  width: 320px;
+  height: 3px;
+}
+.register-page .create-account {
+  position: relative;
+  margin-right: 6.2px;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  color: #000000;
+}
+.register-page {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 293px 32.5px 247px 26px;
+  box-sizing: border-box;
+}

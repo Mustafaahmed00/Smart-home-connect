@@ -1,0 +1,71 @@
+.register-login .rectangle-3 {
+  border-radius: 5px;
+  position: absolute;
+  left: 50%;
+  top: 414px;
+  translate: -50% 0;
+  width: 320px;
+  height: 46px;
+}
+.register-login .smart-home-connect {
+  position: relative;
+  margin: 0 0.5px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+.register-login .rectangle-2 {
+  border-radius: 5px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.register-login .login {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  color: #000000;
+}
+.register-login .rectangle-21 {
+  position: relative;
+  margin: 0 0 22px 9px;
+  display: flex;
+  padding: 11px 5.9px 11px 0;
+  width: 320px;
+  box-sizing: border-box;
+}
+.register-login .register {
+  position: relative;
+  margin: 0 0 28px 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  color: #000000;
+}
+.register-login .continue-as-aguest {
+  position: relative;
+  margin-left: 38.3px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  color: #000000;
+}
+.register-login {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 301px 33px 351px 28px;
+  box-sizing: border-box;
+}

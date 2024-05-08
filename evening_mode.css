@@ -1,0 +1,150 @@
+.evening-mode .evening-mode-activated {
+  margin: 0 0 32.3px 29px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 50px;
+  color: #000000;
+}
+.evening-mode .music {
+  background: url('../assets/images/music.png') 50% / contain no-repeat;
+  margin-right: 45.3px;
+  width: 67.5px;
+  height: 67.5px;
+}
+.evening-mode .icon {
+  width: 36px;
+  height: 32px;
+}
+.evening-mode .tv {
+  margin: 17.8px 56.3px 17.8px 0;
+  display: flex;
+  width: 36px;
+  height: 32px;
+  box-sizing: border-box;
+}
+.evening-mode .coffee-maker {
+  background: url('../assets/images/coffee_maker.png') 50% / contain no-repeat;
+  width: 67.5px;
+  height: 67.5px;
+}
+.evening-mode .container-2 {
+  margin: 0 36.8px 12.5px 0;
+  display: flex;
+  flex-direction: row;
+  width: 272.5px;
+  box-sizing: border-box;
+}
+.evening-mode .approval {
+  background: url('../assets/images/approval.png') 50% / contain no-repeat;
+  margin-right: 29.5px;
+  width: 67.5px;
+  height: 67.5px;
+}
+.evening-mode .approval-2 {
+  background: url('../assets/images/approval.png') 50% / contain no-repeat;
+  margin-right: 40.5px;
+  width: 67.5px;
+  height: 67.5px;
+}
+.evening-mode .approval-1 {
+  background: url('../assets/images/approval.png') 50% / contain no-repeat;
+  width: 67.5px;
+  height: 67.5px;
+}
+.evening-mode .container-1 {
+  margin: 0 36.8px 22.3px 0;
+  display: flex;
+  flex-direction: row;
+  width: 272.5px;
+  box-sizing: border-box;
+}
+.evening-mode .minutes-left-50 {
+  margin: 0 26px 81.2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 50px;
+  color: #000000;
+}
+.evening-mode .setting {
+  margin: 0 47.8px 163.2px 0;
+  width: 57.6px;
+  height: 57.6px;
+}
+.evening-mode .vector {
+  width: 50.4px;
+  height: 50.4px;
+}
+.evening-mode .redo-alt {
+  margin: 0.3px 47.8px 0.3px 0;
+  display: flex;
+  width: 50.4px;
+  height: 50.4px;
+  box-sizing: border-box;
+}
+.evening-mode .vector-1 {
+  width: 52px;
+  height: 45.5px;
+}
+.evening-mode .home {
+  margin: 2.8px 47px 2.8px 0;
+  display: flex;
+  width: 52px;
+  height: 45.5px;
+  box-sizing: border-box;
+}
+.evening-mode .vector-2 {
+  width: 51px;
+  height: 51px;
+}
+.evening-mode .user {
+  display: flex;
+  width: 51px;
+  height: 51px;
+  box-sizing: border-box;
+}
+.evening-mode .icons {
+  margin: 0 55.9px 12px 0;
+  display: flex;
+  flex-direction: row;
+  width: 248.2px;
+  box-sizing: border-box;
+}
+.evening-mode .home-1 {
+  margin: 5px 12.5px 0 0;
+  display: inline-block;
+  width: 78.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 20.6px;
+  color: #000000;
+}
+.evening-mode .profile {
+  margin-bottom: 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 20.6px;
+  color: #000000;
+}
+.evening-mode .container {
+  margin-left: 38.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 150.2px;
+  box-sizing: border-box;
+}
+.evening-mode {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 32px 0.2px 12px 0;
+  box-sizing: border-box;
+}

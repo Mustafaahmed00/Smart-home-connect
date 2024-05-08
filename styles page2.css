@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #dae2f8, #d6a4a4); /* Soft blue to soft pink gradient */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+
+.container {
+    width: 100%;
+    max-width: 400px;
+}
+.icons {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+.add-icon {
+    font-size: 24px;
+    border: none;
+    background: transparent;
+}
+form {
+    width: 100%;
+}
+input[type="text"],
+input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+nav {
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid #dcdcdc;
+}
+
+.nav-item {
+    text-align: center;
+    width: 33.33%;
+}
+
+.nav-icon {
+    width: 30px;
+    margin-bottom: 5px;
+}
+
+.nav-label {
+    display: block;
+    font-size: 14px;
+    color: #333;
+}
+
+.nav-item a {
+    color: inherit; /* Prevent default link colors */
+    text-decoration: none; /* Prevent default link underlining */
+    font-size: 42px;
+}
+
+.active{
+    text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-thickness: 2px; /* Sets the thickness of the underline */
+}
+img {
+    width: 30px; /* Adjust according to your preference */
+}

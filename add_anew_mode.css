@@ -1,0 +1,215 @@
+.add-anew-mode .choose-devices {
+  margin-bottom: 20.8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 50px;
+  color: #000000;
+}
+.add-anew-mode .icon {
+  width: 24px;
+  height: 38.4px;
+}
+.add-anew-mode .lightbulb-02 {
+  margin: 0 34px 29.3px 0;
+  display: flex;
+  width: 24px;
+  height: 38.4px;
+  box-sizing: border-box;
+}
+.add-anew-mode .vector-3 {
+  width: 48px;
+  height: 30px;
+}
+.add-anew-mode .camera-video-fill {
+  margin: 14.2px 33.5px 23.5px 0;
+  display: flex;
+  width: 48px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.add-anew-mode .vector-4 {
+  width: 21px;
+  height: 36px;
+}
+.add-anew-mode .thermometer-three-quarters-solid {
+  margin: 11.2px 44.5px 20.5px 0;
+  display: flex;
+  width: 21px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.add-anew-mode .vector-5 {
+  width: 32px;
+  height: 40px;
+}
+.add-anew-mode .lock {
+  margin: 9.2px 30px 18.5px 0;
+  display: flex;
+  width: 32px;
+  height: 40px;
+  box-sizing: border-box;
+}
+.add-anew-mode .music {
+  background: url('../assets/images/music.png') 50% / contain no-repeat;
+  margin-top: 0.2px;
+  height: 67.5px;
+  flex-grow: 1;
+  flex-basis: 67.5px;
+}
+.add-anew-mode .container-1 {
+  margin: 0 27px 1.5px 12px;
+  display: flex;
+  flex-direction: row;
+  width: calc(100% - 39px);
+  box-sizing: border-box;
+}
+.add-anew-mode .add {
+  background: url('../assets/images/add.png') 50% / contain no-repeat;
+  margin: 0 30px 9.5px 0;
+  align-self: center;
+  width: 67.5px;
+  height: 67.5px;
+}
+.add-anew-mode .enter-mode-name {
+  margin: 0 7px 61px 7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 50px;
+  color: #000000;
+}
+.add-anew-mode .enter-durationin-minutes {
+  margin-right: 7.9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 50px;
+  color: #000000;
+}
+.add-anew-mode .rectangle-16 {
+  background: #D9D9D9;
+  margin-bottom: 37px;
+  align-self: flex-start;
+  width: 100px;
+  height: 100px;
+}
+.add-anew-mode .vector {
+  width: 50.4px;
+  height: 50.4px;
+}
+.add-anew-mode .redo-alt {
+  margin: 0.3px 47.8px 0.3px 0;
+  display: flex;
+  width: 50.4px;
+  height: 50.4px;
+  box-sizing: border-box;
+}
+.add-anew-mode .vector-1 {
+  width: 52px;
+  height: 45.5px;
+}
+.add-anew-mode .home {
+  margin: 2.8px 47px 2.8px 0;
+  display: flex;
+  width: 52px;
+  height: 45.5px;
+  box-sizing: border-box;
+}
+.add-anew-mode .vector-2 {
+  width: 51px;
+  height: 51px;
+}
+.add-anew-mode .user {
+  display: flex;
+  width: 51px;
+  height: 51px;
+  box-sizing: border-box;
+}
+.add-anew-mode .icons {
+  margin: 0 15.6px 3px 0;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  width: 248.2px;
+  box-sizing: border-box;
+}
+.add-anew-mode .automations {
+  margin-bottom: 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 20.6px;
+  color: #000000;
+}
+.add-anew-mode .line-1 {
+  background: #92C0E5;
+  margin: 0 11px;
+  align-self: flex-start;
+  width: 56px;
+  height: 8px;
+}
+.add-anew-mode .container-3 {
+  margin-right: 19.2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.add-anew-mode .home-1 {
+  margin: 5px 0 6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 20.6px;
+  color: #000000;
+}
+.add-anew-mode .container-2 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.add-anew-mode .profile {
+  margin-bottom: 11px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 20.6px;
+  color: #000000;
+}
+.add-anew-mode .container {
+  margin: 0 17px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 290.2px;
+  box-sizing: border-box;
+}
+.add-anew-mode .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.add-anew-mode .rectangle-15 {
+  background: #D9D9D9;
+  position: absolute;
+  left: -7px;
+  bottom: 385px;
+  width: 386px;
+  height: 49px;
+}
+.add-anew-mode {
+  background: #FFFFFF;
+  display: flex;
+  padding: 44px 16.5px 20px 0;
+  box-sizing: border-box;
+}
